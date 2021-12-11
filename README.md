@@ -1,4 +1,4 @@
-# PHB(PKU Hole Backup.)
+# PHB(PKU Hole Backup)
 Only for record.
 
 Please view log in master branch.
