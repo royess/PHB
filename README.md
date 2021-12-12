@@ -1,7 +1,7 @@
 # PHB(PKU Hole Backup)
 Only for record.
 
-Please view log in master branch.
+Please view logs in master branch.
 
 You can use `ctrl + K` or `command + K` to search for what you want.
 
